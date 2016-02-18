@@ -2,5 +2,15 @@
   width: 100%;
 }
 .bold{
-  font-weight: 700;
+  font-weight: 800;
+  color: white;
+}
+html{
+  background-color: #3b2416;
+  color: #fbb041;
+}
+
+.unita{
+  position: relative;
+  margin:0 auto;
 }
