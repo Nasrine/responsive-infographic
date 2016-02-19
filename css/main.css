@@ -17,6 +17,6 @@ html {
   margin: 0 auto;
 }
 
-.unit1 {
-  font: Creepster;
+.unit1, .unit2 {
+  font-family: arvo;
 }
