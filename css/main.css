@@ -11,6 +11,9 @@ html {
   background-color: #3b2416;
   color: #fbb041;
 }
+svg {
+  stroke-width: 0;
+}
 
 .unita {
   position: relative;
@@ -21,11 +24,20 @@ html {
   font-family: arvo;
 }
 
-
 .st0 {
-  fill: #f89521; stroke: #ffffff; stroke-width: 1.2543; stroke-miterlimit: 10;
-  }
+  fill: #f89521;
+  stroke: #fff;
+  stroke-width: 1.2543;
+  stroke-miterlimit: 10;
+}
 
 .st1 {
-  fill: #ffffff; stroke: #ffffff; stroke-miterlimit: 10;
+  fill: #fff;
+  stroke: #fff;
+  stroke-miterlimit: 10;
 }
+.candy{
+  width: 100%;
+}
+
+
