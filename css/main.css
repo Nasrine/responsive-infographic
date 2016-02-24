@@ -3,7 +3,7 @@
 }
 
 .bold {
-  font-weight: 800;
+  font-weight: 900;
   color: white;
 }
 
@@ -19,4 +19,11 @@ html {
 
 .unit1, .unit2 {
   font-family: arvo;
+}
+
+
+.st0 {fill:#F89521;stroke:#FFFFFF;stroke-width:1.2543;stroke-miterlimit:10;
+  }
+
+.st1 {fill:#FFFFFF;stroke:#FFFFFF;stroke-miterlimit:10;
 }
