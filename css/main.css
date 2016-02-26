@@ -12,6 +12,10 @@ html {
   color: #fbb041;
 }
 
+h2:hover {
+  color: white;
+}
+
 svg {
   stroke-width: 0;
 }
@@ -55,3 +59,4 @@ svg {
 
   20% { transform: translateX(-10px); }
 }
+
